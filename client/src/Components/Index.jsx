@@ -1,4 +1,4 @@
-import React from 'react';
+
 import QRCode from "react-qr-code";
 import { useParams } from 'react-router-dom';
 
